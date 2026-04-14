@@ -24,13 +24,6 @@ I bridge the gap between autonomous AI and urban infrastructure. My focus is on 
 
 ---
 
-### 📊 Real-time Engineering Metrics
-![Million's GitHub Stats](https://github-readme-stats.vercel.app/api?username=millionsime&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millionsime&layout=compact&theme=radical&border_radius=10)
-
----
-
 ### 🤝 Connect & Collaborate
 <p align="left">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
