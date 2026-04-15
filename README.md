@@ -26,8 +26,8 @@ I bridge the gap between autonomous AI and urban infrastructure. My focus is on 
 
 ### 🤝 Connect & Collaborate
 <p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="simemillion@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/million-sime-a84978185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 > *"Engineering is the art of organizing complexity. AgentOps is the science of making that complexity autonomous."*
