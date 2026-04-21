@@ -9,7 +9,7 @@
 ---
 
 ### 🤖 AgentOps & Smart City Architecture
-I bridge the gap between autonomous AI and urban infrastructure. My focus is on **AgentOps**—ensuring the reliability, observability, and scaling of AI agents within the **City Operating System (CityOS)** framework. From fine-tuning LLMs to architecting unified data hubs, I build systems that move at the speed of modern governance.
+I bridge the gap between autonomous AI and urban infrastructure. My focus is on AgentOps ensuring the reliability, observability, and scaling of AI agents within the City Operating System (CityOS) framework. From fine-tuning LLMs to architecting unified data hubs, I build systems that move at the speed of modern governance.
 
 ---
 
