@@ -1,4 +1,4 @@
-# ⚡ Senior Software Engineer | AgentOps Engineer
+# ⚡ Senior Software Developer | AgentOps Engineer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Innovation%20Lead-blue?style=for-the-badge">
